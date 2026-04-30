@@ -1,9 +1,3 @@
-# 💫 About Me:
-I'm currently working on a game project<br>
-I'm learning C#, C++, HTML, CSS, JS and Nix<br>
-I want to be a game programmer
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-fine-32a2a6350) 
 
